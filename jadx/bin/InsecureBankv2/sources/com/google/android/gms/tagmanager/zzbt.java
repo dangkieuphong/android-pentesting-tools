@@ -1,0 +1,18 @@
+package com.google.android.gms.tagmanager;
+
+import com.google.android.gms.internal.zzqf;
+import java.util.Set;
+
+class zzbt implements zzco {
+    zzbt() {
+    }
+
+    @Override // com.google.android.gms.tagmanager.zzco
+    public void zzh(Set<zzqf.zza> set) {
+    }
+
+    @Override // com.google.android.gms.tagmanager.zzco
+    public zzck zzyY() {
+        return new zzbs();
+    }
+}
